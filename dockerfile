@@ -1,5 +1,5 @@
 FROM python:3.8.2-alpine3.10
-MAINTAINER Eugeniu Buzila
+LABEL Eugeniu Buzila
 
 ENV PYTHONUNBUFFERED 1
 
